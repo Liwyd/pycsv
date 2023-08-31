@@ -21,4 +21,4 @@ user1.ADD_info(2, 500)
 123456789,0,1500,0,0,2,1,3
 ```
 
-- you can cahnge the defult values of each new user at line 35
+- you can change the defult values of each new user at line 35
