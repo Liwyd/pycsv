@@ -1,7 +1,7 @@
 # CSV db Manager
 ## How To Install
 ```
-git clone https://github.com/Liwyd/csv-database-Manager.git
+git clone [https://github.com/Liwyd/csv-database-Manager.git](https://github.com/Liwyd/pycsv.git)
 ```
 
 ## How To Use
